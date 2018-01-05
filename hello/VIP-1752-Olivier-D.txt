@@ -1,0 +1,39 @@
+https://manager.infomaniak.com/hebergement/bdd/g231255s1i288508
+User: ravi.choudhary@vivacityinfotech.com
+Pass: vivacity@2017!
+
+
+
+=============OLD HOST=================
+wp admin of Talent4Boards.
+https://www.talent4boards.com/login/?redirect_to=https%3A%2F%2Fwww.talent4boards.com%2F
+login/PWD: info@talent4boards.com / nCfOK1x3cnJd
+
+CPanel vidahost : 
+https://armadale.footholds.net:2083/cpsess6791621780/frontend/x3/index.html
+login/PWD: talent / P36Yqvdo9z5d
+
+=====================================
+
+
+
+
+INFOMAINIA HOST FTP: pjtm.ftp.infomaniak.com
+pjtm_vivacity
+RPm9i9aCazrj
+
+WP LOGIN 
+login/PWD: info@talent4boards.com / nCfOK1x3cnJd
+
+
+/* The name of the database for WordPress /
+define('DB_NAME', 'pjtm_WP282068');
+
+/* MySQL database username /
+define('DB_USER', 'pjtm_WP282068');
+
+/* MySQL database password /
+define('DB_PASSWORD', 'YA1L7gJ9ol2s');
+
+/* MySQL hostname /
+define('DB_HOST', 'pjtm.myd.infomaniak.com');
